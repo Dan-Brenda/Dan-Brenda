@@ -22,3 +22,4 @@ I turn product ideas into shipped software by writing clear specs and directing 
 
 - Email: [dan.breny@gmail.com](mailto:dan.breny@gmail.com)
 - LinkedIn: [linkedin.com/in/danielbrenda](https://www.linkedin.com/in/danielbrenda)
+- Portfolio: [dan-brenda.github.io](https://dan-brenda.github.io)
