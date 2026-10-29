@@ -1,4 +1,4 @@
-# Dan Brenda
+# Daniel Brenda
 
 I turn product ideas into shipped software by writing clear specs and directing AI coding agents to build against them. My current product, Measured Size, is live in the Chrome Web Store and Firefox Add-ons. I'm looking for product manager and AI implementation roles.
 
