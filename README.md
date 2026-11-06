@@ -1,6 +1,6 @@
 # Daniel Brenda
 
-I turn product ideas into shipped software by writing clear specs and directing AI coding agents to build against them. My current product, Measured Size, is live in the Chrome Web Store and Firefox Add-ons. I'm looking for product manager and AI implementation roles.
+I turn product ideas into shipped software by writing clear specs and directing AI coding agents to build against them. My current product, Measured Size, is live in the Chrome Web Store, Firefox Add-ons and the App Store. I'm looking for product manager and AI implementation roles.
 
 ## What I'm building
 
@@ -8,7 +8,7 @@ I turn product ideas into shipped software by writing clear specs and directing 
 
 - [Chrome Web Store](https://chromewebstore.google.com/detail/phffgakipjdnplpmkibfgnondilcfkpa) (Chrome, Edge and Brave)
 - [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/measured-size/) (Firefox on desktop and Android)
-- iPhone and iPad app: in App Store review
+- [App Store](https://apps.apple.com/app/measured-size/id6821079398) (iPhone and iPad)
 - [Free bra size calculator](https://measuredsize.com/bra-size-calculator.html), installable on a phone
 - [Free Fit API and MCP server](https://measuredsize.com/how-it-works.html#api) for AI agents, listed in [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/1429)
 
